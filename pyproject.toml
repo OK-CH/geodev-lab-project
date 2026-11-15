@@ -28,3 +28,6 @@ members = [
     "month-03/explore_pandas.py",
     "month-03",
 ]
+
+[tool.uv.sources]
+geopandas = { workspace = true }

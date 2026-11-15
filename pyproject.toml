@@ -24,4 +24,7 @@ members = [
     "geopandas",
     "rasterio",
     "matplotlib",
+    "month-03/bare",
+    "month-03/explore_pandas.py",
+    "month-03",
 ]

@@ -20,3 +20,4 @@ See project-brief.md for the full brief.
 
 ## Month 3: geospatial Python and automation
 -Week 10: GeoPandas exploration, join and maps
+- Week 11: CRS and spatial operations. Reprojected to EPSG:32631 and measured area of wards and road distances
